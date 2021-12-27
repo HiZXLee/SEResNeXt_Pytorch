@@ -1,7 +1,7 @@
 # SeResNeXT_Pytorch
 SeResNeXt from scratch in Pytorch
 
-Objective: To understand the architecture of SeResNeXt.
+Objective: To understand the architecture of SEResNeXt.
 
 SEResNeXt utilizes [Squeeze and Excitation Block](https://arxiv.org/abs/1709.01507v4) as the bottleneck of [ResNeXt](https://arxiv.org/abs/1611.05431v2).
 
